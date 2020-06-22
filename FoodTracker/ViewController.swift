@@ -1,10 +1,6 @@
 //
-//  ViewController.swift
-//  FoodTracker
+// Implementation of view event responses
 //
-//  Created by walt on 20200622.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
@@ -13,7 +9,4 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-
-
 }
-
